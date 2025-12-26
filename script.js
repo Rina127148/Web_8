@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
    
     // URL для отправки формы (замените на ваш URL от formcarry.com или slapform.com)
     // Для примера используем форму из formcarry.com (нужно заменить на реальный URL)
-    const FORM_SUBMIT_URL = 'https://formcarry.com/s/ВАШ_ID_ФОРМЫ';
+    const FORM_SUBMIT_URL = 'https://formcarry.com/s/I-YZYNwZZuX';
    
     // Флаг для отслеживания состояния модального окна
     let isModalOpen = false;
